@@ -3,7 +3,7 @@ body
 	background-color:#C4C4C4;
 	margin-right: auto;
 	margin-left: auto;
-	width: 800px;
+	width: 50em;
 }
 
 #body_style, #header
@@ -32,6 +32,15 @@ body
 
 #blog-title {float: left;}
 
+#blog-title a {	
+	text-decoration: none;
+	color:#525252;
+}
+
+#blog-title a:hover {
+	color: #525252;
+}
+
 #links
 {
 	width: 100%;
@@ -50,7 +59,7 @@ body
 
 #body-text
 {
-	margin: 10px;
+	margin: 20px;
 	font-size: 18px;
 	text-decoration: none;
 }
