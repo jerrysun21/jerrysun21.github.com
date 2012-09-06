@@ -12,7 +12,8 @@ I am a Mechatronics Engineering student at the University of Waterloo.  In the p
 I am interested in embedded and OS-level programming, as well as mobile application development.
 
 I enjoy basketball, Ultimate Frisbee, and Starcraft II.  
-  
+
+If you have any questions or comments, please do not hesistate to reach me via one of the methods below.
 
 #Contact
 

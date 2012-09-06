@@ -1,0 +1,519 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"new",
+				"newWindowWidth"
+			],
+			[
+				"width",
+				"widthLimit"
+			],
+			[
+				"wi",
+				"widthLimit"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"border-",
+				"border-style"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pading",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"body",
+				"body_text"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"note",
+				"note_id"
+			],
+			[
+				"app",
+				"appendWhereEscapeString"
+			],
+			[
+				"urisi",
+				"URI_SINGLE_TAG"
+			],
+			[
+				"auth",
+				"AUTHORITY"
+			],
+			[
+				"uri_new",
+				"URI_NEW_TAG"
+			],
+			[
+				"URI",
+				"URI_ALL_TAGS"
+			],
+			[
+				"uri",
+				"uriMatcher"
+			],
+			[
+				"DB_",
+				"DB_TAGS_TABLE"
+			],
+			[
+				"onL",
+				"onLoaderReset"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 669,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/default.css",
+			"settings":
+			{
+				"buffer_size": 933,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.md",
+			"settings":
+			{
+				"buffer_size": 795,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2012-08-17-how-this-blog-works.md",
+			"settings":
+			{
+				"buffer_size": 1847,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "404.html",
+			"settings":
+			{
+				"buffer_size": 695,
+				"line_ending": "Unix",
+				"name": "---"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 192,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 59,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: current file in browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: current file in browser"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"markdo",
+				"Markdown Preview: current file in browser"
+			],
+			[
+				"preview ",
+				"Markdown Preview: current file in browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Jerry/Documents/Projects/Coursera-Algorithm I/percolation.java",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/scripts/javascript.js",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/_layouts/post.html",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/css/page.css",
+		"/Users/Jerry/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Jerry/Dropbox/Projects/Eclipse/SimplyNotes/src/com/jxsun/simplynotes/NoteViewFragment.java",
+		"/Users/Jerry/Dropbox/Projects/Eclipse/SimplyNotes/src/com/jxsun/simplynotes/NotesListFragment.java",
+		"/Applications/Utilities/Boot Camp Assistant.app/Contents/Info.plist",
+		"/Users/Jerry/Dropbox/Projects/Eclipse/SimplyNotes/src/com/jxsun/simplynotes/data/NotesDbProvider.java",
+		"/Users/Jerry/Dropbox/Projects/Eclipse/SimplyNotes/ant.properties",
+		"/Users/Jerry/Dropbox/Projects/Eclipse/SimplyNotes/AndroidManifest.xml",
+		"/Users/Jerry/Documents/android-sdk-macosx/tools/ant/build.xml",
+		"/Users/Jerry/Dropbox/Projects/Eclipse/SimplyNotes/build.xml",
+		"/Users/Jerry/Dropbox/Projects/Eclipse/SimplyNotes/test.sublime-project",
+		"/Users/Jerry/Documents/android-sdk-macosx/docs/resources/samples/ApiDemos/src/com/example/android/apis/app/CustomTitle.java"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	text-decoration: none;\n",
+			".properties",
+			"build.properties"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								669
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/default.css",
+					"settings":
+					{
+						"buffer_size": 933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								493,
+								493
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 250.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "about.md",
+					"settings":
+					{
+						"buffer_size": 795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_posts/2012-08-17-how-this-blog-works.md",
+					"settings":
+					{
+						"buffer_size": 1847,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1845,
+								1845
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "404.html",
+					"settings":
+					{
+						"buffer_size": 695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"auto_name": "---",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_layouts/post.html",
+					"settings":
+					{
+						"buffer_size": 59,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true
+}
