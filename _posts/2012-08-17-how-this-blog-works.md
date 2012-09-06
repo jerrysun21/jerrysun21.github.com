@@ -3,7 +3,7 @@ layout: post
 title: "How This Blog Works"
 description: ""
 category: 
-tags: []
+tags: [blog]
 ---
 
 I've always wanted to keep a blog, just to have a more professional presence on the internet.  I tried Wordpress and Blogger hosted blogs but felt both of them were too bloated for my needs.  I wanted a simple blog with a simple layout that I could easily maintain.
