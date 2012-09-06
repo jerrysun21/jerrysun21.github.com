@@ -1,0 +1,12 @@
+#body-text
+{
+	margin: 20px;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+#body-text a{text-decoration: none; color: #787878;}
+
+#body-text a:hover {color: #7A7A7A;}
+
+#body-text h1{font-size:26px; font-weight: bold;}

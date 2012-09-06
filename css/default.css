@@ -8,8 +8,8 @@ body
 
 #body_style, #header
 {
-	font-family: "Times New Roman", serif;
-	color:#525252;
+	font-family: 'PT Serif', "Times New Roman", serif;
+	color:#2D2D2D;
 }
 
 #body_style
@@ -28,17 +28,18 @@ body
 	padding-bottom: 10px;
 	text-align: right;
 	line-height: 50px;
+	font-family: 'Headland One';
 }
 
-#blog-title {float: left;}
+#blog-title {float: left;	}
 
 #blog-title a {	
 	text-decoration: none;
-	color:#525252;
+	color:#2D2D2D;
 }
 
 #blog-title a:hover {
-	color: #525252;
+	color: #2D2D2D;
 }
 
 #links
@@ -50,22 +51,9 @@ body
 
 #links a
 {
-	font-size: 16px;
+	font-size: 18px;
 	text-decoration: none;
-	color: #525252;
+	color: #2D2D2D;
 }
 
 #links a:hover {color: #7A7A7A;}
-
-#body-text
-{
-	margin: 20px;
-	font-size: 18px;
-	text-decoration: none;
-}
-
-#body-text a{text-decoration: none; color: #787878;}
-
-#body-text a:hover {color: #7A7A7A;}
-
-#body-text h1{font-size:26px; font-weight: normal;}
