@@ -1,9 +1,8 @@
 ---
-layout: default
-title: "About Me"
+layout: post
+title: "About"
 blogtitle: "Blog Title"
 ---
-#About
 
 My name is Jerry Sun, and this is my blog.
 
