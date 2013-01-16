@@ -28,12 +28,12 @@ body
 	padding-bottom: 10px;
 	text-align: right;
 	line-height: 50px;
-	font-family: 'Headland One';
+	font-family: 'Arimo', sans-serif;
 }
 
 #blog-title {float: left;	}
 
-#blog-title a {	
+#blog-title a {
 	text-decoration: none;
 	color:#2D2D2D;
 }
