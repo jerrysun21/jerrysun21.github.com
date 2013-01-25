@@ -1,12 +1,12 @@
 body
 {
-	background-color:#C4C4C4;
 	margin-right: auto;
 	margin-left: auto;
-	width: 50em;
+	margin-top: 0px;
+	background-image: url("/res/images/bodybg.png");
 }
 
-#body_style, #header
+#body_style
 {
 	font-family: 'PT Serif', "Times New Roman", serif;
 	color:#2D2D2D;
@@ -15,10 +15,16 @@ body
 #body_style
 {
 	clear:both;
-	background-color: #E3E3E3;
-	padding-top: 1px;
+	background-color: white;
+	padding-top: 2px;
 	padding-bottom: 40px;
-	border-radius: 10px;
+	width:56%;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	border-style: solid;
+	border-width: 1px;
+	border-color: rgba(0, 0, 0, 0.07);
 }
 
 #header
@@ -29,23 +35,25 @@ body
 	text-align: right;
 	line-height: 50px;
 	font-family: 'Arimo', sans-serif;
+	background-image: url("/res/images/headerbg.png");
+	height:5em;
 }
 
-#blog-title {float: left;	}
+#blog-title {
+	float: left;
+	margin-left: 8em;
+	margin-top: 1em;
+}
 
 #blog-title a {
 	text-decoration: none;
-	color:#2D2D2D;
-}
-
-#blog-title a:hover {
-	color: #2D2D2D;
+	color:white;
 }
 
 #links
 {
-	width: 100%;
-	margin: 0px auto;
+	margin-right: 8em;
+	margin-top:4em;
 	vertical-align: middle;
 }
 
@@ -53,7 +61,7 @@ body
 {
 	font-size: 18px;
 	text-decoration: none;
-	color: #2D2D2D;
+	color: white;
 }
 
 #links a:hover {color: #7A7A7A;}
