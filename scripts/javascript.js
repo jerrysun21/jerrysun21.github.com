@@ -1,7 +1,16 @@
 $(document).ready(function(){
 
 	$("#blog-title").css('marginLeft', $('#body_style').css('marginLeft'));
-	$("#links").css('marginRight', $("#body_style").css('marginRight'))
+	$("#links").css('marginRight', $("#body_style").css('marginRight'));
+
+	if ($(window).width() < 820)
+	{
+		$("#body_style").css("width", "97.5%");
+	}
+	else
+	{
+		$("#body_style").css("width", "50em");
+	}
 
 	//If the User resizes the window, adjust the #container height
 	$(window).bind("resize", resizeWindow);
