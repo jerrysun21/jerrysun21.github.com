@@ -10,3 +10,23 @@
 #body-text a:hover {color: #7A7A7A;}
 
 #body-text h1{font-size:26px; font-weight: bold;}
+
+.image-thumb {
+  background-color: #F9F9F9;
+  border: 1px solid #CCCCCC;
+  padding: 3px;
+  font-size: 12px;
+}
+
+.image-thumb img {
+  max-width: 750px;
+  height: auto;
+  width: auto;
+  border: 1px solid #CCCCCC;
+  vertical-align: middle;
+  margin-bottom: 3px;
+}
+
+.right { margin: 0.5em 0pt 0.5em 0.8em; float:right; }
+.left { margin: 0.5em 0.8em 0.5em 0; float:left; }
+
