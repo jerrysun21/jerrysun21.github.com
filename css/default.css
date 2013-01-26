@@ -9,7 +9,7 @@ body
 
 #body_style
 {
-	font-family: 'PT Serif', "Times New Roman", serif;
+	font-family: 'Libre Baskerville', "Times New Roman", serif;
 	color:#2D2D2D;
 }
 
@@ -25,12 +25,12 @@ body
 	border-width: 1px;
 	margin-right: auto;
 	margin-left: auto;
-	margin-top: 7px;
+	margin-top: 12px;
 }
 #header-bg
 {
 	background-image: url("/res/images/headerbg.png");
-	height: 200px;
+	height: 175px;
 }
 #header-text
 {
@@ -61,7 +61,7 @@ body
 {
 	vertical-align: middle;
 	width: 400px;
-	margin-top: 135px;
+	margin-top: 110px;
 	margin-right: 10px;
 	margin-left: auto;
 	color: #FFFFFF;
