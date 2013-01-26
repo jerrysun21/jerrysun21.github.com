@@ -1,16 +1,23 @@
 $(document).ready(function(){
+
+	$("#blog-title").css('marginLeft', $('#body_style').css('marginLeft'));
+	$("#links").css('marginRight', $("#body_style").css('marginRight'))
+
 	//If the User resizes the window, adjust the #container height
 	$(window).bind("resize", resizeWindow);
 	function resizeWindow( e ) {
-		var widthLimit = 800;
+		var widthLimit = 820;
 		var newWindowWidth = $(window).width();
+		var left_Marg = $('#body_style').css('marginLeft');
 		if (newWindowWidth < widthLimit)
 		{
-			$("body").css("width", "95%");
+			$("#body_style").css("width", "97.5%");
 		}
 		else
 		{
-			$("body").css("width", "50em");
+			$("#body_style").css("width", "50em");
 		}
+		$("#blog-title").css('marginLeft', left_Marg);
+		$("#links").css('marginRight', $("#body_style").css('marginRight'))
 	}
 });

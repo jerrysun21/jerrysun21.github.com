@@ -3,7 +3,7 @@ layout: resume
 title: "Resume"
 ---
 
-My resume can be found [here](doesntexist).
+My resume can be found [here](/res/resume.pdf).
 
 
 Side Projects:

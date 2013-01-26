@@ -3,10 +3,11 @@ body
 	background-color:#C4C4C4;
 	margin-right: auto;
 	margin-left: auto;
-	width: 50em;
+	margin-top: 0px;
+	background-image: url("/res/images/bodybg.png");
 }
 
-#body_style, #header
+#body_style
 {
 	font-family: 'PT Serif', "Times New Roman", serif;
 	color:#2D2D2D;
@@ -15,13 +16,23 @@ body
 #body_style
 {
 	clear:both;
-	background-color: #E3E3E3;
+	background-color: white;
 	padding-top: 1px;
 	padding-bottom: 40px;
-	border-radius: 10px;
+	width: 50em;
+	border-style: solid;
+	border-color: rgba(0, 0, 0, 0.05);
+	border-width: 1px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 7px;
 }
-
-#header
+#header-bg
+{
+	background-image: url("/res/images/headerbg.png");
+	height: 200px;
+}
+#header-text
 {
 	font-size: 40px;
 	padding-top: 10px;
@@ -29,31 +40,40 @@ body
 	text-align: right;
 	line-height: 50px;
 	font-family: 'Arimo', sans-serif;
+	color: white;
+	font-weight: bold;
 }
 
-#blog-title {float: left;	}
+#blog-title {
+	float: left;
+	margin-top: 40px;
+}
 
 #blog-title a {
 	text-decoration: none;
-	color:#2D2D2D;
 }
 
-#blog-title a:hover {
-	color: #2D2D2D;
+#blog-title a:visited {
+	color: white;
 }
 
 #links
 {
-	width: 100%;
-	margin: 0px auto;
 	vertical-align: middle;
+	width: 400px;
+	margin-top: 135px;
+	margin-right: 10px;
+	margin-left: auto;
+	color: #FFFFFF;
 }
 
 #links a
 {
 	font-size: 18px;
 	text-decoration: none;
-	color: #2D2D2D;
+	color: white;
 }
+
+#links a:visited {color: white;}
 
 #links a:hover {color: #7A7A7A;}
