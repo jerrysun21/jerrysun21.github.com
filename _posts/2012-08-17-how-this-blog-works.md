@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How This Blog Works"
-description: "Brief overview of the technologies used for this webiste"
+description: "Brief overview of the technologies used for this website"
 category:
 tags: [blog]
 ---
