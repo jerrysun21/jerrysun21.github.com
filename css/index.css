@@ -3,7 +3,7 @@
 	margin: 20px;
 	font-size: 18px;
 	text-decoration: none;
-  line-height: 30px;
+  line-height: 15px;
 }
 
 #post_list a{ text-decoration:none; color: #787878;}
@@ -15,4 +15,11 @@
 #post_tags
 {
 	font-size: 12px;
+}
+
+.post-description {
+  font-size: 12px;
+  line-height: 20px;
+  text-indent: 1em;
+  color: #777777;
 }
