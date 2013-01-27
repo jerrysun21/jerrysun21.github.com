@@ -12,21 +12,50 @@
 #body-text h1{font-size:26px; font-weight: bold;}
 
 .image-thumb {
-  background-color: #F9F9F9;
-  border: 1px solid #CCCCCC;
   padding: 3px;
   font-size: 12px;
+  width: auto;
+  height: auto;
 }
 
 .image-thumb img {
   max-width: 750px;
   height: auto;
   width: auto;
-  border: 1px solid #CCCCCC;
+  border: 1px double #CCCCCC;
   vertical-align: middle;
   margin-bottom: 3px;
+}
+.caption {
+  clear: left;
 }
 
 .right { margin: 0.5em 0pt 0.5em 0.8em; float:right; }
 .left { margin: 0.5em 0.8em 0.5em 0; float:left; }
 
+.code{
+  font-size: 14px;
+  border: 1px solid #989898 ;
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+  background-color: #F0F0F0;
+  font-family: monospace;
+}
+
+/*Minimize header for better reading*/
+
+#header-bg {
+  height: 57px;
+}
+#header-text {
+  padding-top: 1px;
+}
+#blog-title {
+  margin-top: 0px;
+}
+
+#links {
+  margin-top: 0px;
+}
