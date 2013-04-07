@@ -4,6 +4,122 @@
 		"selected_items":
 		[
 			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"User",
+				"UserProfileForm"
+			],
+			[
+				"email",
+				"email_taken  (function)"
+			],
+			[
+				"class",
+				"class_choices"
+			],
+			[
+				"subject",
+				"subject_code"
+			],
+			[
+				"alert",
+				"alert-error"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"gets",
+				"get_subject_object"
+			],
+			[
+				"get",
+				"get_grade_object"
+			],
+			[
+				"load",
+				"loadSubjects"
+			],
+			[
+				"sel",
+				"selected_grades"
+			],
+			[
+				"selected",
+				"selectedGrades"
+			],
+			[
+				"ch",
+				"chzn-select"
+			],
+			[
+				"grade",
+				"grade_list"
+			],
+			[
+				"grade_",
+				"grade_list"
+			],
+			[
+				"HttpRe",
+				"HttpResponse  (class)"
+			],
+			[
+				"c",
+				"curriculums"
+			],
+			[
+				"select",
+				"SelectMultiple  (class)"
+			],
+			[
+				"t",
+				"TimeField  (class)"
+			],
+			[
+				"boo",
+				"bootstrap-fileupload"
+			],
+			[
+				"Student",
+				"StudentProfileForm"
+			],
+			[
+				"batch",
+				"batch_upload_error"
+			],
+			[
+				"user",
+				"userprofile"
+			],
+			[
+				"is_valid",
+				"is_valid_class"
+			],
+			[
+				"text",
+				"TextInput  (class)"
+			],
+			[
+				"Batch",
+				"BatchClassForm"
+			],
+			[
+				"margin",
+				"margin-left:   (property)"
+			],
+			[
+				"rand",
+				"randrange  (function)"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
 				"text-",
 				"text-decoration"
 			],
@@ -112,69 +228,204 @@
 	"buffers":
 	[
 		{
-			"file": "_layouts/default.html",
-			"settings":
-			{
-				"buffer_size": 669,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "css/default.css",
 			"settings":
 			{
-				"buffer_size": 933,
+				"buffer_size": 1138,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "about.md",
+			"file": "_layouts/default.html",
 			"settings":
 			{
-				"buffer_size": 795,
+				"buffer_size": 1446,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_posts/2012-08-17-how-this-blog-works.md",
+			"file": "css/post.css",
 			"settings":
 			{
-				"buffer_size": 1847,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "404.html",
-			"settings":
-			{
-				"buffer_size": 695,
-				"line_ending": "Unix",
-				"name": "---"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 192,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/post.html",
-			"settings":
-			{
-				"buffer_size": 59,
+				"buffer_size": 1144,
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "",
+	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
-		"height": 207.0,
+		"height": 291.0,
 		"selected_items":
 		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git log curr",
+				"Git: Log Current File"
+			],
+			[
+				"git diff curr",
+				"Git: Diff Current File"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add curr",
+				"Git: Add Current File"
+			],
+			[
+				"git cmmi",
+				"Git: Commit"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git add cu",
+				"Git: Add Current File"
+			],
+			[
+				"gitadd",
+				"Git: Add Current File"
+			],
+			[
+				"git stats",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git log cu",
+				"Git: Log Current File"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add cur",
+				"Git: Add Current File"
+			],
+			[
+				"git diffcurr",
+				"Git: Diff Current File"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"coment",
+				"Toggle Comment"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"show error list",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"show erro",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"show error",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"git diff cur",
+				"Git: Diff Current File"
+			],
+			[
+				"prefd",
+				"Preferences: Settings - Default"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"linter",
+				"SublimeLinter: Reset"
+			],
+			[
+				"disable",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent ",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
 			[
 				"mark",
 				"Markdown Preview: current file in browser"
@@ -194,13 +445,9 @@
 			[
 				"preview ",
 				"Markdown Preview: current file in browser"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			]
 		],
-		"width": 575.0
+		"width": 588.0
 	},
 	"console":
 	{
@@ -217,11 +464,112 @@
 	},
 	"file_history":
 	[
-		"/Users/Jerry/Documents/Projects/Coursera-Algorithm I/percolation.java",
-		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/scripts/javascript.js",
-		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/_layouts/post.html",
-		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/css/page.css",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/css/index.css",
+		"/Users/Jerry/Projects/multi-user-secure-storage/res/values/styles.xml",
+		"/Users/Jerry/Projects/multi-user-secure-storage/.gitignore",
+		"/Users/Jerry/Projects/N36/sesameio/static/css/sesame.css",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/templates/account/password_reset.html",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/templates/account/password_set.html",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/templates/account/password_change.html",
+		"/Users/Jerry/Projects/N36/sesameio/classes/views.py",
+		"/Users/Jerry/Projects/N36/sesameio/templates/accounts/profile.html",
+		"/Users/Jerry/Projects/N36/sesameio/templates/classes/classes.html",
+		"/Users/Jerry/Projects/N36/sesameio/sesameio/views.py",
+		"/Users/Jerry/Projects/N36/sesameio/accounts/forms.py",
+		"/Users/Jerry/Projects/N36/sesameio/templates/base.html",
+		"/Users/Jerry/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/Jerry/Projects/N36/sesameio/accounts/views.py",
+		"/Users/Jerry/Projects/N36/sesameio/sesameio/settings.py",
+		"/Users/Jerry/Projects/N36/.gitignore",
+		"/Users/Jerry/Dropbox/School/4B/MSCI 454/MSCI 454 questions",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/account/forms.py",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/account/views.py",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/account/utils.py",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/account/models.py",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/account/adapter.py",
+		"/Users/Jerry/Projects/N36/sesameio/accounts/models.py",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/account/signals.py",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/utils.py",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/app_settings.py",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/account/app_settings.py",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/models.py",
+		"/Users/Jerry/Projects/N36/sesameio/classes/forms.py",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/account/urls.py",
+		"/etc/bashrc",
+		"/etc/.bashrc",
+		"/Users/Jerry/Projects/N36/sesameio/accounts/urls.py",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/urls.py",
+		"/Users/Jerry/Projects/N36/sesameio/templates/accounts/login.html",
+		"/Users/Jerry/Projects/N36/sesameio/allauth/templates/account/login.html",
+		"/Users/Jerry/Projects/django-allauth/allauth/account/forms.py",
+		"/Users/Jerry/Projects/django-allauth/allauth/account/models.py",
+		"/Users/Jerry/Projects/N36/sesameio/sesameio/urls.py",
+		"/Users/Jerry/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/Jerry/Projects/N36/sesameio/templates/accounts/register.html",
+		"/Users/Jerry/Projects/N36/sesameio/templates/assessments/create_rubric.html",
+		"/Users/Jerry/Projects/chosen-master/example.jquery.html",
+		"/Users/Jerry/Projects/N36/sesameio/templates/classes/class_detail.html",
+		"/Users/Jerry/Projects/N36/sesameio/assessments/views.py",
+		"/Users/Jerry/Projects/N36/sesameio/assessments/forms.py",
+		"/Users/Jerry/Projects/N36/sesameio/templates/assessments/assessments.html",
+		"/Users/Jerry/Projects/N36/sesameio/curriculums/models.py",
+		"/Users/Jerry/Projects/N36/sesameio/curriculums/views.py",
+		"/Users/Jerry/Projects/N36/sesameio/classes/urls.py",
+		"/Users/Jerry/Projects/N36/sesameio/static/js/chosen.jquery.js",
+		"/Users/Jerry/Projects/N36/sesameio/static/css/chosen.css",
+		"/Users/Jerry/Projects/N36/sesameio/students/views.py",
+		"/Users/Jerry/Projects/N36/sesameio/classes/models.py",
+		"/Users/Jerry/Projects/N36/sesameio/assessments/models.py",
+		"/Users/Jerry/Projects/N36/sesameio/students/forms.py",
+		"/Users/Jerry/Projects/N36/sesameio/templates/test.html",
+		"/Users/Jerry/Projects/N36/sesameio/students/models.py",
+		"/Users/Jerry/Projects/N36/sesameio/classes/admin.py",
+		"/Users/Jerry/Projects/N36/sesameio/grades/models.py",
+		"/Users/Jerry/Projects/N36/sesameio/scripts/curriculum_parser.py",
 		"/Users/Jerry/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Jerry/Projects/N36/sesameio/subjects/models.py",
+		"/Users/Jerry/.gitconfig",
+		"/Users/Jerry/Projects/N36/sesameio/database",
+		"/Users/Jerry/Projects/N36/sesameio/templates/students/students.html",
+		"/Users/Jerry/Projects/N36/sesameio/templates/students/profile.html",
+		"/Users/Jerry/Projects/testupload.csv",
+		"/Users/Jerry/code-2.py",
+		"/Users/Jerry/code2.cpp",
+		"/Users/Jerry/Projects/N36/sesameio/helper/batch.py",
+		"/Users/Jerry/testnegative.cpp",
+		"/Users/Jerry/Projects/N36/sesameio/helper/__init__.py",
+		"/Users/Jerry/Projects/N36/sesameio/curriculums/__init__.py",
+		"/Users/Jerry/Projects/N36/sesameio/helper/batch_upload_helper.py",
+		"/Users/Jerry/Projects/N36/sesameio/templates/classes/add_class.html",
+		"/Users/Jerry/Projects/N36/sesameio/classes/tests.py",
+		"/Users/Jerry/Projects/N36/sesameio/students/urls.py",
+		"/Users/Jerry/Projects/N36/sesameio/templates/dashboard.html",
+		"/Users/Jerry/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Jerry/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Jerry/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Jerry/Dropbox/School/4B/ECE 406/A2/A2Q1.py",
+		"/Users/Jerry/Dropbox/School/4B/ECE 406/A2/modexp.py",
+		"/Users/Jerry/Dropbox/School/4B/ECE 406/A2Q1.py",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/css/post.css",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/_posts/2013-01-12-chicago.md",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/css/default.css",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/_posts/2013-01-25-updates.md",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/scripts/shCore.js",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/_layouts/post.html",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/_layouts/index.html",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/.git/COMMIT_EDITMSG",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/.gitignore",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/resume.md",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/scripts/javascript.js",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/_layouts/default.html",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/_posts/2012-09-05-lumia-920.md",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/_posts/2013-01-25-chicago.md",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/index.html",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/_posts/2012-08-17-how-this-blog-works.md",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/about.md",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/404.html",
+		"/Users/Jerry/Documents/Projects/Coursera-Algorithm I/percolation.java",
+		"/Users/Jerry/Documents/Projects/jerrysun21.github.com/css/page.css",
 		"/Users/Jerry/Dropbox/Projects/Eclipse/SimplyNotes/src/com/jxsun/simplynotes/NoteViewFragment.java",
 		"/Users/Jerry/Dropbox/Projects/Eclipse/SimplyNotes/src/com/jxsun/simplynotes/NotesListFragment.java",
 		"/Applications/Utilities/Boot Camp Assistant.app/Contents/Info.plist",
@@ -246,9 +594,63 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			"<?",
+			"android",
+			"PasswordField",
+			"PasswordFIeld",
+			"POST",
+			"Site",
+			"ADAPTER",
+			"clean",
+			"Username",
+			"placeholder",
+			"login_widget",
+			"utils",
+			"profile",
+			"new_data",
+			"authenticate",
+			"UserProfile\n\n\n\n\n\n\nUserProfile",
+			"UserProfile",
+			"signup",
+			"authentication_backend",
+			"curriculums",
+			"RadioSelect",
+			"#",
+			"chosen-sprite.png",
+			"chosen",
+			".png",
+			"chosen",
+			".png",
+			"chosen",
+			"sprite",
+			"search-choice-close",
+			")',\n",
+			"football",
+			")))\n",
+			"subject_data",
+			";\n",
+			"\n",
+			"group_form",
+			"group",
+			"Group",
+			"student",
+			"class",
+			"jasny",
+			"layout",
+			"public",
+			"section",
+			"lines",
+			"Django",
+			"alt+p",
+			"trim_trailing_white_space_on_save",
+			"	\"trim_trailing_white_space_on_save\": true\n}\n",
+			"[Images]",
+			"#img",
+			"\n",
+			"post_list",
 			"	text-decoration: none;\n",
 			".properties",
 			"build.properties"
@@ -259,195 +661,496 @@
 		"regex": false,
 		"replace_history":
 		[
+			"../img/chosen-sprite.png"
 		],
 		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
-		"whole_word": false,
+		"whole_word": true,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
-			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_layouts/default.html",
+					"file": "css/default.css",
 					"settings":
 					{
-						"buffer_size": 669,
+						"buffer_size": 1138,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								669
+								189,
+								189
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": false,
+							"pep8_ignore":
+							[
+								"W501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 1.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 153.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "css/default.css",
+					"file": "_layouts/default.html",
 					"settings":
 					{
-						"buffer_size": 933,
+						"buffer_size": 1446,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								493,
-								493
+								90,
+								90
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": false,
+							"pep8_ignore":
+							[
+								"W501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 1.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 250.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "about.md",
+					"file": "css/post.css",
 					"settings":
 					{
-						"buffer_size": 795,
+						"buffer_size": 1144,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								19,
-								19
+								190,
+								190
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_posts/2012-08-17-how-this-blog-works.md",
-					"settings":
-					{
-						"buffer_size": 1847,
-						"regions":
-						{
-						},
-						"selection":
-						[
+							"annotations":
 							[
-								1845,
-								1845
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "404.html",
-					"settings":
-					{
-						"buffer_size": 695,
-						"regions":
-						{
-						},
-						"selection":
-						[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
 							[
-								29,
-								29
-							]
-						],
-						"settings":
-						{
-							"auto_name": "---",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 192,
-						"regions":
-						{
-						},
-						"selection":
-						[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
 							[
-								3,
-								3
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "_layouts/post.html",
-					"settings":
-					{
-						"buffer_size": 59,
-						"regions":
-						{
-						},
-						"selection":
-						[
+								110.0
+							],
+							"gjslint_options":
 							[
-								42,
-								42
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": false,
+							"pep8_ignore":
+							[
+								"W501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 1.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -456,11 +1159,16 @@
 					"type": "text"
 				}
 			]
+		},
+		{
+			"sheets":
+			[
+			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 36.0
 	},
 	"input":
 	{
@@ -475,11 +1183,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -489,9 +1204,21 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
 	"replace":
 	{
-		"height": 0.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -499,21 +1226,81 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"settings",
+				"N36/sesameio/sesameio/settings.py"
+			],
+			[
+				"rubric",
+				"N36/sesameio/templates/assessments/create_rubric.html"
+			],
+			[
+				"class",
+				"N36/sesameio/templates/classes/class_detail.html"
+			],
+			[
+				"classes.h",
+				"N36/sesameio/templates/classes/classes.html"
+			],
+			[
+				"templates/ass",
+				"N36/sesameio/templates/assessments/create_rubric.html"
+			],
+			[
+				"assessments/views",
+				"N36/sesameio/assessments/views.py"
+			],
+			[
+				"classes/forms",
+				"N36/sesameio/classes/forms.py"
+			],
+			[
+				"forms",
+				"N36/sesameio/assessments/forms.py"
+			],
+			[
+				"views",
+				"N36/sesameio/classes/views.py"
+			],
+			[
+				"models",
+				"N36/sesameio/curriculums/models.py"
+			],
+			[
+				"templates/classe",
+				"N36/sesameio/templates/classes/classes.html"
+			],
+			[
+				"base.",
+				"N36/sesameio/templates/base.html"
+			],
+			[
+				"student/views",
+				"N36/sesameio/students/views.py"
+			],
+			[
+				"curriculums/views",
+				"N36/sesameio/curriculums/views.py"
+			],
+			[
+				"curriculum/mode",
+				"N36/sesameio/curriculums/models.py"
+			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 159.0,
+	"side_bar_width": 304.0,
 	"status_bar_visible": true
 }

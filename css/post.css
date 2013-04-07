@@ -3,13 +3,21 @@
 	margin: 20px;
 	font-size: 16px;
 	text-decoration: none;
+  font-family: "Droid Sans", Arial, "Lucida Grande", sans-serif;
+  text-rendering: optimizeLegibility;
+  line-height: 24px;
 }
 
 #body-text a{text-decoration: none; color: #787878;}
 
 #body-text a:hover {color: #7A7A7A;}
 
-#body-text h1{font-size:26px; font-weight: bold;}
+#body-text h1{
+  font-size:32px;
+  font-weight: bold;
+  font-family: "Droid Serif", serif;
+  line-height: 40px;
+}
 
 .image-thumb {
   padding: 3px;

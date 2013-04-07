@@ -1,9 +1,9 @@
 #post_list
 {
 	margin: 20px;
-	font-size: 18px;
+	font-size: 23px;
 	text-decoration: none;
-  line-height: 15px;
+    line-height: 23px;
 }
 
 #post_list a{ text-decoration:none; color: #787878;}
@@ -14,12 +14,12 @@
 
 #post_tags
 {
-	font-size: 12px;
+	font-size: 16px;
 }
 
 .post-description {
-  font-size: 12px;
-  line-height: 20px;
+  font-size: 14px;
+  line-height: 22px;
   text-indent: 1em;
   color: #777777;
 }
